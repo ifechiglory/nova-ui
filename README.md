@@ -118,7 +118,11 @@ export const Disabled = () => <Input placeholder="Can't type" disabled />;
 
 Build Storybook for deployment:
 
+```bash
 npm run build-storybook
+```
+
+---
 
 Deploy storybook-static/ folder to Vercel, Netlify, or any static hosting.
 
