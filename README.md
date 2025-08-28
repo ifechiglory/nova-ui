@@ -82,11 +82,11 @@ npm run dev
 
 ## Adding New Components
 
-1. Create a new component in src/components/, e.g., Input.jsx.
+- Create a new component in src/components/, e.g., Input.jsx.
 
-2. Add a Storybook file Input.stories.jsx.
+- Add a Storybook file Input.stories.jsx.
 
-3. Define stories with different props:
+- Define stories with different props:
 
 ```bash
 import Input from './Input';
@@ -102,7 +102,7 @@ export const Disabled = () => <Input placeholder="Can't type" disabled />;
 
 ---
 
-1. Start Storybook to view and test your component.
+- Start Storybook to view and test your component.
 
 ## Best Practices
 
