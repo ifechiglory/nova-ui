@@ -66,7 +66,7 @@ npm install
 
 npx storybook@latest init
 
-### Usage
+## Usage
 
 Run Storybook:
 
@@ -74,7 +74,7 @@ npm run storybook
 
 Open the URL shown in the terminal (usually <http://localhost:6006>) to interact with your component library.
 
-### Run App
+## Run App
 
 If you also want to see components in a standalone React app:
 
