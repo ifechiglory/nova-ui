@@ -1,4 +1,4 @@
-# Storybook Design System
+# Nova-UI
 
 A reusable component library built with React and Tailwind CSS, documented with Storybook. This project demonstrates component-driven development, making it easier to maintain, reuse, and scale UI elements across projects.
 
