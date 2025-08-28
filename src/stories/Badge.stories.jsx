@@ -1,4 +1,4 @@
-import Badge from "./Badge";
+import Badge from "../components/Badge";
 
 export default {
   title: "Components/Badge",
@@ -26,4 +26,4 @@ export const Success = Template.bind({});
 Success.args = { children: "Success Badge", variant: "success" };
 
 export const Danger = Template.bind({});
-Danger.args = { children: 'Danger Badge', variant: 'danger' };
+Danger.args = { children: "Danger Badge", variant: "danger" };
